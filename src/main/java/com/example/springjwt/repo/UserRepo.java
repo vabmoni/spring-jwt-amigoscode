@@ -1,6 +1,6 @@
-package com.example.demo.repo;
+package com.example.springjwt.repo;
 
-import com.example.demo.domain.User;
+import com.example.springjwt.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepo extends JpaRepository<User,Long> {

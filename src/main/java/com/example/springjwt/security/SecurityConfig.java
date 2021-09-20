@@ -1,7 +1,7 @@
-package com.example.demo.security;
+package com.example.springjwt.security;
 
-import com.example.demo.filter.CustomAuthenticationFilter;
-import com.example.demo.filter.CustomAuthorizationFilter;
+import com.example.springjwt.filter.CustomAuthenticationFilter;
+import com.example.springjwt.filter.CustomAuthorizationFilter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

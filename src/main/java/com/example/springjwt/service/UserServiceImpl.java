@@ -1,9 +1,9 @@
-package com.example.demo.service;
+package com.example.springjwt.service;
 
-import com.example.demo.domain.Role;
-import com.example.demo.domain.User;
-import com.example.demo.repo.RoleRepo;
-import com.example.demo.repo.UserRepo;
+import com.example.springjwt.domain.Role;
+import com.example.springjwt.domain.User;
+import com.example.springjwt.repo.RoleRepo;
+import com.example.springjwt.repo.UserRepo;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

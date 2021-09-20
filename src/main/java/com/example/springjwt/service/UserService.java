@@ -1,7 +1,7 @@
-package com.example.demo.service;
+package com.example.springjwt.service;
 
-import com.example.demo.domain.Role;
-import com.example.demo.domain.User;
+import com.example.springjwt.domain.Role;
+import com.example.springjwt.domain.User;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package com.example.demo.repo;
+package com.example.springjwt.repo;
 
-import com.example.demo.domain.Role;
+import com.example.springjwt.domain.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface RoleRepo extends JpaRepository<Role,Long> {

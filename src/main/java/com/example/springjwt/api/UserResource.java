@@ -1,12 +1,12 @@
-package com.example.demo.api;
+package com.example.springjwt.api;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.JWTVerifier;
 import com.auth0.jwt.algorithms.Algorithm;
 import com.auth0.jwt.interfaces.DecodedJWT;
-import com.example.demo.domain.Role;
-import com.example.demo.domain.User;
-import com.example.demo.service.UserService;
+import com.example.springjwt.domain.Role;
+import com.example.springjwt.domain.User;
+import com.example.springjwt.service.UserService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;

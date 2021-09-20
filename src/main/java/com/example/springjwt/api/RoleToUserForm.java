@@ -1,4 +1,4 @@
-package com.example.demo.api;
+package com.example.springjwt.api;
 
 import lombok.Data;
 

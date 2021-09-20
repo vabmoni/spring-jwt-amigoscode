@@ -1,8 +1,8 @@
-package com.example.demo;
+package com.example.springjwt;
 
-import com.example.demo.domain.Role;
-import com.example.demo.domain.User;
-import com.example.demo.service.UserService;
+import com.example.springjwt.domain.Role;
+import com.example.springjwt.domain.User;
+import com.example.springjwt.service.UserService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
